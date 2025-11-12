@@ -1,5 +1,7 @@
 # 🤖 Customer Support Chatbot
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customersupportagent.streamlit.app/)
+
 A lightweight customer support chatbot using **LangChain** and **Groq**.  
 It classifies questions into categories (Billing, Technical Support, General Inquiry), provides predefined responses, and escalates when frustration is detected.
 
